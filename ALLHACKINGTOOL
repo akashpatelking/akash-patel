@@ -1,0 +1,1020 @@
+#!/bin/bash
+#Taking Input & output from user 
+echo "  
+===================CODDEDBYAKASHHACKER==================
+
+=================[ INDIA ]==============================
+
+YOUTUBE = https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q
+
+--------------------------------------------------------
+
+WATSAAP GROUP = https://chat.whatsapp.com/KwwhoAwZhAA54zw2sB9CAd
+
+--------------------------------------------------------
+ 
+CONTANT = 7079063261
+
+--------------------------------------------------------
+
+=====================[ ALLHACKING TOOL ]================
+
+CREAT = AKASHHACKER
+
+--------------------------------------------------------
+
+Tool Name: *[P-gen]* number *1*  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+*About Tool:*
+
+↦ p-gen tool is an python based script which create/generate random passwords in fraction of seconds. This tool works on both rooted Android device and Non-rooted Android device.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Available For:*
+
+↦ *TERMUX*
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Requirements:*
+
+↦ *100 MB data*
+↦ *200 MB storage*
+↦ *No root*
+↦ *Data Connection*
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Installation & Usage:*
+
+$ apt-get update -y 
+
+$ apt-get upgrade -y
+
+$ pkg install python -y 
+
+$ pkg install python2 -y 
+
+$ pkg install git -y
+
+$ pip2 install requests
+
+$ pip2 install random 
+
+$ ls 
+
+$ git clone https://github.com/noob-hackers/p-gen
+
+$ ls
+
+$ cd p-gen
+
+$ ls
+
+$ python p-gen.py 
+
+*Example:* put any 3 digit number it will create 3 digit wordlist
+
+For further practical guidence or usage choose below options *video/post*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+========================================================
+
+Tool Name: [Tool-x] number 2  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ This is the tool made for termux which helps in installing the best tools for penetration testing.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 300 MB data
+↦ 1GB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt get-update
+
+$ apt install git
+
+$ git clone 
+https://github.com/Rajkumrdusad/Tool-X
+
+$ cd Tool-X
+
+$ chmod +x install.aex
+
+$ sh install.aex if not work than use ./install.aex
+
+
+========================================================
+
+Tool Name: [T-load] number 3  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ T-load is bash based script and this makes your termux look cool when you install it.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/noob-hackers/T-LOAD
+
+$ cd T-LOAD
+
+$ ls
+
+$ bash t-load.sh
+
+For further practical guidence or usage choose below options video/post
+Join our groups and subscribe our channel 
+
+========================================================
+
+Tool Name: [Pybozocrack] number 4  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ This tool is made to crack md5 hash in termux and kali.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 400 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg pkg install git
+
+$ pkg install python2
+
+$ git clone https://github.com/ikkebr/PyBozoCrack
+
+$ cd pybozoCrack
+
+$ pip2 install -r requirements txt
+
+$ chmod +x pyBozoCrcack.py
+usage
+
+$ python2
+pyBozoCrcack.py -f md5.txt
+
+if your md5 text is in your internal storage type command
+
+$ python2
+pyBozoCrcack.py -f /sdcard/md5.txt
+
+For further practical guidence or usage choose below options video/post
+Join our groups and subscribe our channel
+
+========================================================
+
+Tool Name: [Snap] number 5  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Snap tool is made of bash and it is used to backup and restore termux any files.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 400 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update
+
+
+$ apt-get upgrade 
+
+
+$ termux-setup-storage
+
+
+allow pop-up storage permission.
+
+
+$ pkg install git 
+
+
+$ pkg install python
+
+
+$ pip install lolcat
+
+
+$ git clone https://github.com/noob-hackers/snap
+
+
+$ ls
+
+
+$ cd snap
+
+
+$ ls
+
+
+$ bash snap.sh
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+            Information provided by  AKASH PATEL 
+
+========================================================
+
+Tool Name: [T-bomb] number 6  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ T-bomb is a tool which is made for call and sms bombing from termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$  pkg install git
+
+$  pkg install python2
+
+$  git clone https://github.com/TheSpeedX/TBomb
+
+$ ls
+
+$ cd TBomb
+
+$ chmod +x *
+
+$ pip3 install -r requirements.txt
+
+$ ./TBomb.sh
+
+Or
+
+$ python2 or python3 bomber.py
+
+If not working
+Install this
+
+$ python2 -m pip install termcolor
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Information provided by AKASH HACKER
+
+Join our groups and subscribe our channel
+
+========================================================
+
+Tool Name: [T-bomb] number 6  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ T-bomb is a tool which is made for call and sms bombing from termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$  pkg install git
+
+$  pkg install python2
+
+$  git clone https://github.com/TheSpeedX/TBomb
+
+$ ls
+
+$ cd TBomb
+
+$ chmod +x *
+
+$ pip3 install -r requirements.txt
+
+$ ./TBomb.sh
+
+Or
+
+$ python2 or python3 bomber.py
+
+If not working
+Install this
+
+$ python2 -m pip install termcolor
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Information provided by AKASH HACKER
+
+Join our groups and subscribe our channel
+
+========================================================
+
+
+Tool Name: [Blackeye] number 8  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Black eye is a tool which contains all phishing page's.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 600 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update
+
+$ apt-get upgrade
+ 
+$ git clone https://github.com/An0nUD4Y/blackeye
+
+$ pkg install curl
+
+$ cd blackeye
+
+$ chmod +x blackeye.sh
+
+$ ls
+
+$ bash blackeye.sh
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━by AKASH HACKER
+
+Join our groups and subscribe our channel for 
+
+========================================================
+
+
+Tool Name: [Vbug] number 9  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Vbug is a python based tool which is used to generate a malicious and dangerous Android virus apk and for other os also.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+FIRST DOWNLOAD ZIP FILE
+
+https://drive.google.com/file/d/0BzXPbcyKYA7rUkxHWXdqeVNvMU0/view
+
+THEN EXTRACT THE FILE IN SDCARD
+
+$ cd /sdcard
+
+$ mv Vbug /$HOME
+
+$ ls
+
+$ cd Vbug
+
+$ ls
+
+$ chmod +x *
+
+$ ls
+
+$ python2 vbug.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+   By AKASH HACKER
+
+========================================================
+
+Tool Name: [M-wiz] number 10  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ M-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 200 MB data
+↦ 800 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y
+
+$ apt-get upgrade -y 
+
+$ pkg install python -y 
+
+$ pkg install python2 -y 
+
+$ pkg install git -y
+
+$ pip2 install lolcat 
+
+$ git clone https://github.com/noob-hackers/m-wiz
+
+$ ls 
+
+$ cd m-wiz 
+
+$ ls
+
+$ bash m-wiz.sh 
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ 
+
+✇ ━━━━━ MORE STUFF ━━━━━━━ ✇
+
+By AKASH HACKER
+
+========================================================
+
+Tool Name: [Hammer] number 11  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Hammer is python based script which is used to penetrate the desired server or website.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 300 MB data
+↦ 800 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update
+
+$ apt-get upgrade 
+
+$ apt install python
+
+ $ apt install git
+
+$ apt install dnsutils 
+
+$ git clone https://github.com/CruzTed/Hammer
+
+Hammer need the Name Server of a website which you want to attack... To get the Name Server...just type 
+
+$ dnslookup example.com 
+
+Note the IP Address of that Website then
+
+$ cd Hammer 
+
+$ python3 hammer.py -s [ip Address] -t 135 
+
+example:-
+
+$ python3 hammer.py -s 123.45.67.89 -t 135
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━by AKASH HACKER
+
+========================================================
+
+Tool Name: [Hiddeneye] number 12  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Hidden eye is a tool which contains best phishing page's for termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 400 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python
+ 
+$ pkg install git
+
+$ pkg install wget
+
+$ pkg install php
+
+$ pkg install curl
+
+$ pkg install openssh
+
+$ pip install hiddeneye-reborn
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━by AKASH HACKER
+
+========================================================
+
+Tool Name: [Kalimux] number 13  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Kalimux is bash based script which is used to install kali Linux in android mobile in termux with gui and without root.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 400 MB data
+↦ 300 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y 
+
+$ apt-get upgrade -y
+
+ $ pkg install git -y 
+
+$ git clone https://github.com/noob-hackers/kalimux 
+
+$ ls 
+
+$ cd kalimux 
+
+$ ls
+
+ $ sh kalimux.sh
+
+ * So after installtion completes the text files will occur just copy it by long click on text*
+
+$ ./start-kali.sh Now linux has been installed succesfullly in termux without root. But wait if you like to use kali linus as GUI in your android device then you need to download a application called VNC viewer after downloading that. just start kali linux in termux and paste that copied text in that and wait for it to install complete linux os in termux. After installation completes just apply this command in kali 
+
+$ vncserver-start Now the server starts on host 127.0.0.1:5901 Now open VNC viewer and click on + icon and create host access Now the the gui of kali linux has been started in VNC viewer so start practising now...... Note:- Don't remove termux from background while using kali linux in VNC viwer because the vnc host files are present in termux app so... 
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by AKASH HACKER 
+
+========================================================
+
+Tool Name: [Ipdrone] number 14  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ ipdrone is a simply python script, which can be used to Ip lookup and to get information of particular target Ip. This tool works on both rooted Android device and Non-rooted Android device.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y 
+
+$ apt-get upgrade -y
+
+ $ pkg install python -y 
+
+$ pkg install python2 -y 
+
+$ pkg install git -y 
+
+$ pip install requests
+
+$ ls
+
+$ git clone https://github.com/noob-hackers/ipdrone 
+
+$ ls
+
+$ cd ipdrone 
+
+$ ls
+
+$ python ipdrone.py -v (your victim ip here) 
+
+ex:- python ipdrone.py -v 127.0,0.1
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦by AKASH HACKER
+
+========================================================
+
+Tool Name: [Lazybee] number 15  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Lazybee tool is a python based script from which you can generate random wordlist for brutefocre attacks. This tool has a unique features like wordlist generating time calculation and direct .txt saving in current directory. This tool works on both rooted Android device and Non-rooted Android device.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y 
+
+$ apt-get upgrade -y 
+
+$ pkg install python -y 
+
+$ pkg install python2 -y 
+
+$ pkg install git -y 
+
+$ pip install requests 
+
+$ pip install random 
+
+$ ls 
+
+$ git clone https://github.com/noob-hackers/lazybee 
+
+$ ls 
+
+$ cd lazybee
+
+$ ls
+
+$ python2 lazybee.py 
+
+ex:- Enter the number of characters: 8
+
+Name your wordlist wit (.txt) extensions: pass.txt
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by AKASH HACKER
+
+========================================================
+
+Tool Name: [Optiva-framework] number 16  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ You can use this Framework on your website to check the security of your website by finding the vulnerability in your website or you can use this tool to Get admin panel search SQL injection by dork As well as collecting information and encrypting.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install git
+
+$ git clone https://github.com/joker25000/Optiva-Framework
+
+$ cd Optiva-Framework
+
+$ chmod +x installer.sh
+
+$ bash installer.sh
+
+$ Select the 3 option termux and press enter
+
+$ run optiva :
+
+$ python2 optiva.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+By Akash hacker
+
+========================================================
+
+Tool Name: [Seeker] number 17  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Seeker is a Location tracking tools which gives information about ip location and lot more by just sending link.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt update
+
+$ apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/rooted-cyber/seeker2
+
+$ cd seeker2
+
+$ bash setup.sh
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker 
+
+========================================================
+
+Tool Name: [Tunnel] number 18  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Tunnel is a bash based script which is made for ngrok users of termux from this tool in just one click you can do lot more. This tool works on both rooted Android device and Non-rooted Android device.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y 
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pkg install tor -y
+
+$ pip2 install lolcat
+
+$ git clone https://github.com/noob-hackers/tunnel
+
+$ ls
+
+$ cd tunnel
+
+$ ls
+
+$ bash tunnel.sh
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by AKASH HACKER
+
+========================================================
+
+Tool Name: [Basiccommands] number 19  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ This section is useful for basic commands users.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ FOR EVERY BASH USING OS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+(pkg help          
+to see the options provided by the TERMUX pkg package manager.)
+
+(pkg search
+to search packages by name.)
+
+(pkg install
+to install packages.)
+
+(uninstall pkg
+ to delete packages.)
+
+(pkg reinstall
+to reinstall packages)
+
+(pkg show
+to display detailed information about packages.)
+
+(pkg list-installed
+to display a list of packages installed in your termux.)
+
+(pkg files
+to see the location of installed files packages)
+
+(pkg list-all
+to display all packages provided in the repository.)
+
+(pkg upgrade
+to update and upgrade packages installed in your termux)
+
+(clear
+This basic command is used to clean the console window)
+
+{pwd
+pwd (print working directory), used to see the position of the current directory location.}
+
+(ls
+used to view / list files and directories. use ls -la to view detailed information of files and folders)
+
+(CD
+Used to navigate / move to another directory that we want, use cd ... to return to the directory level, use cd ~ to go to the home directory)
+
+(cp
+Used to copy / copy files and folders.
+cp -avr / folder-origin / destination folder to copy the folder and its contents)
+
+(mv
+Used To move files and folders or can be used to rename if the file / folder has the same origin and destination)
+
+(rm
+Used to delete files.
+rm -rf Folder name to delete the folder and its contents.)
+
+(rmdir
+Used to delete an empty Folder.)
+
+(rmdir --ignore-fail-on-non-empty folder name to delete non-empty folders)
+
+(chmod
+Used to change File / folder permissions / privilage.)
+
+(chmod + xFolder name to change permisin to 775 or rwx – x – x)
+ 
+
+
+By Akash hacker
+
+========================================================
+
+Tool Name: [Instahack] number 20  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Instahackle is tool used for instagram gain unlimited followers and maintaining Instagram by termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt update && apt upgrade 
+
+$ pkg install git
+
+$ pkg install wget
+
+$ pkg install curl
+
+$ pkg install openssl-tool.
+
+$ git clone https://github.com/Sanju8943/instahackle
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker 
+
+========================================================
+     : "
