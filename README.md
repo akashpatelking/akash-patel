@@ -17,7 +17,9 @@ COMMEND
 
 git clone ........
  
- cd ALLHACKINGTOOL
+ cd akash-patel
+  
+  chmod +x ALLHACKINGTOOL
  
  ./ALLHACKINGTOOL 
    
