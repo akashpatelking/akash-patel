@@ -15,7 +15,7 @@ ALL HACKING TOOL
 COMMEND 
 
 
-git clone ........
+git clone https://github.com/akashpatelking/akash-patel
  
  cd akash-patel
   
