@@ -1,25 +1,16 @@
 #!/bin/bash
 #Taking Input & output from user 
-echo "  
-===================CODDEDBYAKASHHACKER==================
-
-=================[ INDIA ]==============================
-
-YOUTUBE = https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q
-
---------------------------------------------------------
-
-WATSAAP GROUP = https://chat.whatsapp.com/KwwhoAwZhAA54zw2sB9CAd
-
---------------------------------------------------------
- 
-CONTANT = 7079063261
-
---------------------------------------------------------
-
-=====================[ ALLHACKING TOOL ]================
-
-CREAT = AKASHHACKER
+echo -e "\e[4;34m This Script Was Created By Akash hacker \e[0m"
+echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
+echo -e "\e[1;32m       Whatsapp: 7079063261............... \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q \e[0m"
+echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
+echo " "
+#
+read a1
+echo "Press 1 To  Start AL TOOL "
+echo "
 
 --------------------------------------------------------
 
@@ -1818,30 +1809,16 @@ For further practical guidence or usage choose below options video/post
 
 
 ========================================================
-     ========================================================
-     :
-&&         &   &        &&
-     &  &        &  &        &  &
-    &    &       & &        &    &
-   &&&&&&&&      &&        &&&&&&&&
-  &        &     & &      &        &
- &          &    &  &    &          &
-&            &   &   &  &            &                &&  >
-     &  &            &             &          &
-    &    &           &             &          &
-   &&&&&&&&          &&&&&&&&      &&&&&&&&&&&&
-  &        &                &      &          &
- &          &               &      &          &
-&            &       &&&&&&&&      &          &
-========================================================
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& 
+     =======================================================
+-----------------CODDEDBYAKASHHACKER--------------------------
 
-----------------TOOL 40 + TOOL FULL TUTARIAL -----------
+===================SCROLL DOWN BEST HACKING TOO================
 
-===============CODDED BY AKASH HACKER===================
-
-==============SCROOL DOWN TOOL LOOK ==================="
+-----SUBSCRIBE MY CHANNEL PLESE----------------- "  
 #
-echo " plese enter ist number "
-read a
+read a1
+echo "plese enter your 1st number "
 
+#
+read a1
+ 
