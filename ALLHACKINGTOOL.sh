@@ -11,7 +11,9 @@ echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 
  read a1
  clear 
+ echo -e "\e[1;31m"
 figlet ALLTOOL
+echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border AKASH
 echo -e "\e[1;32m [ CONTANT ANY PROBLEM ]\e[0m"
 echo -e "\e[1;32m [ Whatsapp = 7079063261 ] \e[0m"
@@ -459,7 +461,9 @@ else
 	clear 
 echo -e "\e[1;32m [ PRESS ENTER TO EXIT \e[0m"
 read a1 
+echo -e "\e[1;31m"
 figlet ALTOOL
+echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border AKASH
 echo -e "\e[4;34m This Script Was Created By AKASHHACKER\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
