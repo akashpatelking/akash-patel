@@ -21,7 +21,7 @@ git clone https://github.com/akashpatelking/akash-patel
   
   chmod +x ALLHACKINGTOOL.sh
  
- bash ALLHACKINGTOOL.sh
+ ./ALLHACKINGTOOL.sh
    
 ================================================
 
