@@ -19,9 +19,9 @@ git clone https://github.com/akashpatelking/akash-patel
  
  cd akash-patel
   
-  chmod +x ALLHACKINGTOOL.sh
+  chmod +x akash-patel
  
- ./ALLHACKINGTOOL.sh
+ bash ALLHACKINGTOOL.sh
    
 ================================================
 
