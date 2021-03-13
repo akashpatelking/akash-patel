@@ -10,7 +10,6 @@ echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
  echo " Press Enter To Continue [ INTERNET CONNECTION ON ] "
 
  read a1
-apt update
  apt install figlet toilet python curl -y
  clear 
  echo -e "\e[1;31m"
