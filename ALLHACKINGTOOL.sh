@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 while true
 do 
         printf 'PRESS ENTER FIRST {1} [ START ] SECOND { 2 } [  OPEN ]  THIRD { 3 } EXIT ✓✓✓ TYPE 1 ✓✓✓ ===  '
