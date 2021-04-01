@@ -76,17 +76,12 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
 
 elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
         clear
-        echo -e "\e[1;32m [ SUBSCRIBE MY CHANNEL [ TYPE ( YES ) ]  { RUN PROCCES } ( NO) { STOP PROCCES }  \e[0m"
-        read a1 
-        echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-      
-      cd $HOME               
- 
-         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
+
 
 sleep 2      
-	cd $HOME/akash-patel
-         bash ALLHACKINGTOOL.sh
+	
+#!/bin/bash
+xdg-open "https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q"&
                            
                           
 	     	#menu 3
