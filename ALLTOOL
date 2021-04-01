@@ -2,35 +2,6 @@
 #!/bin/bash 
   # taking user 
 clear 
-echo -e "\e[4;34m This Script Was Created By Akash hacker \e[0m"
-echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: 7079063261............... \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q \e[0m"
-echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m" 
- echo " Press Enter To Continue [ INTERNET CONNECTION ON ] "
-
- read a1
- pkg install figlet 
-   
-pkg install toilet
- clear 
- echo -e "\e[1;31m"
-figlet ALLTOOL
-echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border AKASH
-echo -e "\e[1;32m [ CONTANT ANY PROBLEM ]\e[0m"
-echo -e "\e[1;32m [ Whatsapp = 7079063261 ] \e[0m"
-echo -e "\e[1;32m [ CODDEDBYAKASHHACKER ]\e[0m"
-echo -e "\e[1;32m [100+TOOL COMMING SOON ]\e[0m"
-echo -e "\e[1;32m [ EDUCATONAL ONLY     ]\e[0m"
-echo -e "\e[1;32m [ READ Instruction    ]\e[0m"
-echo -e "\e[1;32m [ #######Youtube : AKASH GAMER Hacker  ]\e[0m"
-
-echo -e "\e[1;32m [Whatsapp GROUP = https://chat.whatsapp.com/KwwhoAwZhAA54zw2sB9CAd ]\e[0m"
-echo -e "\e[1;32m [ BYY BYY BYY BYY BYY BYY ]  \e[0m" #######Youtube : AKASH GAMER Hacker
-echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-echo -e "\e[1;32m       AKASH HACKER  \e[0m"
 echo -e "\e[0;31m[1]\e[32m  ALL UPDATE $ UPGRADE"
 echo -e "\e[0;31m[2]\e[32m  P-gen ( generate randam password ) "
 echo -e "\e[0;31m[3]\e[32m  TOOL-X "
@@ -93,7 +64,7 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
         echo -e '\033[31;40;1m AKASH 
                Hacker ....'
      	cd $HOME/akash-patel
-     	    bash ALLTOOL	          
+     	    bash ALLTOOL.sh	          
 #menu 3
 
 elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
@@ -106,7 +77,7 @@ elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
         sleep 2
         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
 	cd $HOME/akash-patel
-	   bash ALLTOOL
+	   bash ALLTOOL.sh	
 
 #menu 4
 elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
@@ -119,7 +90,7 @@ elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
         echo -e '\033[31;40;1m AKASH 
                Hacker ....'
 	cd $HOME/akash-patel
-          bash ALLTOOL
+          bash ALLTOOL.sh	
                                 
 #menu 5
 
@@ -134,7 +105,7 @@ elif [[ $AKASH == 5 || $AKASH == 05 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER........'
 	cd $HOME/akash-patel
-      bash ALLTOOL
+     bash ALLTOOL.sh	
                             
 #menu 6
 
@@ -148,7 +119,7 @@ elif [[ $AKASH == 6 || $AKASH == 06 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER......'
 	cd $HOME/akash-patel
-      bash ALLTOOL  
+      bash ALLTOOL.sh	 
 #menu 7
 elif [[ $AKASH == 7 || $AKASH == 07 ]]; then
         clear
@@ -160,7 +131,7 @@ elif [[ $AKASH == 7 || $AKASH == 07 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER ......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 8
 elif [[ $AKASH == 8 ]]; then
@@ -175,7 +146,7 @@ elif [[ $AKASH == 8 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER........'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 9
 elif [[ $AKASH == 9 || $AKASH == 09 ]]; then
@@ -188,7 +159,7 @@ elif [[ $AKASH == 9 || $AKASH == 09 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 10
 elif [[ $AKASH == 10 ]]; then
@@ -208,7 +179,7 @@ elif [[ $AKASH == 10 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.........'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 11
 elif [[ $AKASH == 11 ]]; then
@@ -221,7 +192,7 @@ elif [[ $AKASH == 11 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER .......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 
 #menu 12
@@ -235,7 +206,7 @@ elif [[ $AKASH == 12 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 13
 elif [[ $AKASH == 13 ]]; then
@@ -248,7 +219,7 @@ elif [[ $AKASH == 13 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER ...'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 14
 elif [[ $AKASH == 14 ]]; then
@@ -261,7 +232,7 @@ elif [[ $AKASH == 14 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER...'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 15
 elif [[ $AKASH == 15 ]]; then
@@ -274,7 +245,7 @@ elif [[ $AKASH == 15 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLHACKINGTOOL.sh
+        bash ALLTOOL.sh	
 #menu 16
 elif [[ $AKASH == 16 ]]; then
         clear
@@ -286,7 +257,7 @@ elif [[ $AKASH == 16 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 17
 elif [[ $AKASH == 17 ]]; then
@@ -300,7 +271,7 @@ elif [[ $AKASH == 17 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 18
 elif [[ $AKASH == 18 ]]; then
@@ -313,7 +284,7 @@ elif [[ $AKASH == 18 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 19
 elif [[ $AKASH == 19 ]]; then
@@ -326,7 +297,7 @@ elif [[ $AKASH == 19 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 20
 elif [[ $AKASH == 20 ]]; then
@@ -339,7 +310,7 @@ elif [[ $AKASH == 20 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 21
 elif [[ $AKASH == 21 ]]; then
@@ -352,7 +323,7 @@ elif [[ $AKASH == 21 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER..........'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 22
 elif [[ $AKASH == 22 ]]; then
@@ -365,7 +336,7 @@ elif [[ $AKASH == 22 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+    bash ALLTOOL.sh	
 
 #menu 23
 elif [[ $AKASH == 23 ]]; then
@@ -378,7 +349,7 @@ elif [[ $AKASH == 23 ]]; then
        sleep 2 
        echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 #menu 24 
 elif [[ $AKASH == 24 ]]; then
@@ -391,7 +362,7 @@ elif [[ $AKASH == 24 ]]; then
        sleep 2 
        echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 #menu 25
 elif [[ $AKASH == 25 ]]; then
        clear 
@@ -403,7 +374,7 @@ elif [[ $AKASH == 25 ]]; then
        sleep 2 
        echo -e '\033[31;40;1mAKASH HACKER.......'
 	cd $HOME/akash-patel
-        bash ALLTOOL
+        bash ALLTOOL.sh	
 
 else   
 	clear
@@ -478,4 +449,4 @@ echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFM
 echo -e "\e[1;32m                100+TOOL COMMING SOON	\e[0m"
 
 fi               
-exit 
+

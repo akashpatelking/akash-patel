@@ -2,7 +2,7 @@
 clear
 while true
 do 
-        printf 'PRESS ENTER FIRST {1} [ START ] SECOND { 2 } [  OPEN ]  THIRD { 3 } EXIT ✓✓✓ TYPE 1 ✓✓✓    ====  '
+        printf 'PRESS ENTER FIRST {1} TO start         [ PRESS { 2 } EXIT ===  '
 read video                                                         
                                                                                                                                                                                                       
         case $video in
@@ -10,10 +10,6 @@ read video
                                                                                                                                                            
         *2 ) cd $HOME/akash-patel
            bash ALLTOOL.sh   ;;
-          *3 ) exit ;;
-                                            
-                                                                                      
-                                                     
-        *) printf 'Please enter 1, 2 or quit'
+                   *) printf 'Please enter 1, 2 or quit'
     esac
 done
