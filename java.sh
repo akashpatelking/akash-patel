@@ -11,7 +11,8 @@ clear
 echo -e "\e[1;32m [ LINK ] { PRESS 1 TO CREAT LINK   }\e[0m"
 clear 
 echo -e '\033[31;40;1m Plese wait link creat !'
-   sleep 5                                             
+   sleep 5    
+   clear
 echo -e "\e[1;32m [ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↑ \e[0m"
  echo " "
  echo " " 
