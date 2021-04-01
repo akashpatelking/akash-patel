@@ -13,8 +13,18 @@ ALL HACKING TOOL
  -----------------------------------------------
       
 COMMEND 
+
+
+
+
+
+
 pkg install figlet
+
+
 pkg install toilet
+
+
 
 git clone https://github.com/akashpatelking/akash-patel
  
