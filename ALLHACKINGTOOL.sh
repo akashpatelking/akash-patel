@@ -1,19 +1,120 @@
-#!/bin/bash
+#!/bin/bash 
+  # taking user 
+clear 
+echo -e "\e[4;34m This Script Was Created By Akash hacker \e[0m"
+echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
+echo -e "\e[1;32m       Whatsapp: 7079063261............... \e[0m"
+clear 
+ echo -e "\e[1;31m"
+figlet ALLTOOL
+echo -e "\e[1;34m Created By \e[1;32m"
+toilet -f mono12 -F border AKASH
+echo -e "\e[1;32m [ CONTANT ANY PROBLEM ]\e[0m"
+echo -e "\e[1;32m [ Whatsapp =+237 7079063261 ] \e[0m"
+echo -e "\e[1;32m [ Whatsapp =+91 8791334748 ] \e[0m"
+echo -e "\e[1;32m [ MAIN HACKER { 91 } ↑↑↑↑↑↑ ] \e[0m"
+
+echo -e "\e[1;32m [ CODDEDBYAKASHHACKER ]\e[0m"
+echo -e "\e[1;32m [100+TOOL COMMING SOON ]\e[0m"
+echo -e "\e[1;32m [ EDUCATONAL ONLY     ]\e[0m"
+echo -e "\e[1;32m [ READ Instruction    ]\e[0m"
+echo -e "\e[1;32m [ #######Youtube : AKASH GAMER Hacker  ]\e[0m"
+
+echo -e "\e[1;32m [Whatsapp GROUP = https://chat.whatsapp.com/KwwhoAwZhAA54zw2sB9CAd ]\e[0m"
+echo -e "\e[1;32m [ BYY BYY BYY BYY BYY BYY ]  \e[0m" #######Youtube : AKASH GAMER Hacker
+echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
+echo -e "\e[1;32m       AKASH HACKER  \e[0m"
+pkg install figlet 
+pkg install toilet 
+clear 
+echo -e "\e[1;32m=============================== [ WELCOME  ]\e[0m"
+sleep 5          
 clear
-while true
-do 
-        printf 'PRESS ENTER FIRST {1} [ START ] SECOND { 2 } [  OPEN ]  THIRD { 3 } EXIT ✓✓✓ TYPE 1 ✓✓✓    ====  '
-read video                                                         
-                                                                                                                                                                                                      
-        case $video in
-            *1 ) xdg-open https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q;;
-                                                                                                                                                           
-        *2 ) cd $HOME/akash-patel
-           bash ALLTOOL.sh   ;;
-          *3 ) exit ;;
-                                            
-                                                                                      
-                                                     
-        *) printf 'Please enter 1, 2 or quit'
-    esac
-done
+echo -e "\e[1;32m=============================== [ TO ]\e[0m"
+ sleep 5         
+clear                                         
+echo -e "\e[1;32m=============================== [ HACKERS  ]\e[0m"
+sleep 5          
+clear                                  
+echo -e "\e[1;32m=============================== [ COMMUNITY ]\e[0m"
+sleep 5
+clear            
+echo -e '\033[31;40;1m AKASH                   
+               Hacker ....'
+     	cd $HOME/akash-patel
+     	    bash ALLTOOL.sh
+                              
+                
+	clear
+        echo -e '\033[36;40 ;1m 
+============CODDEDBYAKASHHACKER===============         CODDEDBYAKASHHACKER-------------
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER ------------|
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER....'	
+	sleep 1
+	clear 
+echo -e "\e[1;32m [ PRESS ENTER TO EXIT \e[0m"
+read a1 
+clear
+echo -e "\e[1;31m"
+figlet ALTOOL
+echo -e "\e[1;34m Created By \e[1;32m"
+toilet -f mono12 -F border AKASH
+echo -e "\e[4;34m This Script Was Created By AKASHHACKER\e[0m"
+echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
+echo -e "\e[1;32m       Whatsapp: 7079063261........ \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q \e[0m"
+echo -e "\e[1;32m                100+TOOL COMMING SOON	\e[0m"
+
+

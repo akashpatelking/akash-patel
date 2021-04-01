@@ -22,21 +22,8 @@ echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 figlet ALLTOOL
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border AKASH
-echo -e "\e[1;32m [ CONTANT ANY PROBLEM ]\e[0m"
-echo -e "\e[1;32m [ Whatsapp =+237 7079063261 ] \e[0m"
-echo -e "\e[1;32m [ Whatsapp =+91 8791334748 ] \e[0m"
-echo -e "\e[1;32m [ MAIN HACKER { 91 } ↑↑↑↑↑↑ ] \e[0m"
 
-echo -e "\e[1;32m [ CODDEDBYAKASHHACKER ]\e[0m"
-echo -e "\e[1;32m [100+TOOL COMMING SOON ]\e[0m"
-echo -e "\e[1;32m [ EDUCATONAL ONLY     ]\e[0m"
-echo -e "\e[1;32m [ READ Instruction    ]\e[0m"
-echo -e "\e[1;32m [ #######Youtube : AKASH GAMER Hacker  ]\e[0m"
-
-echo -e "\e[1;32m [Whatsapp GROUP = https://chat.whatsapp.com/KwwhoAwZhAA54zw2sB9CAd ]\e[0m"
-echo -e "\e[1;32m [ BYY BYY BYY BYY BYY BYY ]  \e[0m" #######Youtube : AKASH GAMER Hacker
-echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-echo -e "\e[1;32m       AKASH HACKER  \e[0m"
+                                            
 echo -e "\e[0;31m[1]\e[32m →→→→→→→→→→ SHOW ALL TOOL "
 echo -e "\e[0;31m[2]\e[32m →→→→→→→→→→ UPDATE TOOL  "
 echo -e "\e[0;31m[3]\e[32m →→→→→→→→→→ EXIT "
