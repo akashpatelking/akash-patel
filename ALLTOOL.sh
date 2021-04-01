@@ -64,8 +64,8 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
 
         git clone https://github.com/akashpatelking/akash-patel
         clear
-        echo -e "\e[1;32m →→UPDATE  SUSSES [ PRESS ENTER ] 0m"
-        read a1
+        echo -e "\e[1;32m →→UPDATE  SUSSES [ PLESE WAIT  ] 0m"
+        sleep 5
         sleep 2
         echo -e '\033[31;40;1m AKASH 
                Hacker ....'
