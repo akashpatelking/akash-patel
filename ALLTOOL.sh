@@ -64,7 +64,7 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
         read a1 
         echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
         cd $HOME
-        rm -rf snap
+        rm -rf akash-patel
 
         git clone https://github.com/akashpatelking/akash-patel
         clear
@@ -85,9 +85,10 @@ elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
         echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
       
       cd $HOME               
- sleep 2
-        echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
-clear 
+ 
+         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
+
+sleep 2      
 	cd $HOME/akash-patel
          bash ALLHACKINGTOOL.sh
                            
