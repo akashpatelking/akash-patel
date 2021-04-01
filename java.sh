@@ -286,7 +286,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█████████████50%............./
-sleep 0.0
+sleep 5
 clear
 echo " "
 echo " "

@@ -28,21 +28,126 @@ echo -e "\e[1;32m       AKASH HACKER  \e[0m"
 pkg install figlet 
 pkg install toilet 
 clear 
-echo -e "\e[1;32m=============================== [ WELCOME  ]\e[0m"
-sleep 5          
-clear
-echo -e "\e[1;32m=============================== [ TO ]\e[0m"
- sleep 5         
-clear                                         
-echo -e "\e[1;32m=============================== [ HACKERS  ]\e[0m"
-sleep 5          
-clear                                  
-echo -e "\e[1;32m=============================== [ COMMUNITY ]\e[0m"
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo '
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/WELCOME ............./
 sleep 5
 clear
-echo -e "\e[1;32m================= [ PLESE WAIT LODING DATA  ]\e[0m"
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo '
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/TO ............/
 sleep 5
-clear    
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo '
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/HACKERS ............/
+sleep 5
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo '
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/COMMUNITY............/
+sleep 5
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo '
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/PLESE WAIT DATA LOADING............/
+sleep 5 
+clear
 echo""
 echo""
 echo""
@@ -316,7 +421,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█████████████50%............./
-sleep 0.0
+sleep 5
 clear
 echo " "
 echo " "
