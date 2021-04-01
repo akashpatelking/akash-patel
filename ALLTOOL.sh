@@ -30,14 +30,8 @@ echo -e "\e[0;31m[3]\e[32m →→→→→→→→→→ EXIT "
 echo -e "\e[0;31m[4]\e[32m →→→→→→→→→→ SEND LINK CRASH MOBILE "
 echo -e "\e[0;31m[5]\e[32m →→→→→→→→→→ CONTANT  "
 echo -e "\e[0;31m[6]\e[32m →→→→→→→→→→ SUPPOT    "
-echo -e "\e[1;32m [ DONOT PRESS ENTER  ] \e[0m"
- read a1 
- clear
-sleep 2
-      
- echo -e '\033[31;40;1m              AKASH!'
-      	cd $HOME/akash-patel
-     	    bash ALLTOOL.sh	  
+
+ 
 
 read -p "AKASH HACKER : " AKASH
 if [[ $AKASH == 1 || $AKASH == 01 ]]; then 
