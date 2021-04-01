@@ -17,10 +17,6 @@ echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFM
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m" 
  echo " Press Enter To Continue [ INTERNET CONNECTION ON ] "
 
- read a1
- pkg install figlet 
-   
-pkg install toilet
  clear 
  echo -e "\e[1;31m"
 figlet ALLTOOL
