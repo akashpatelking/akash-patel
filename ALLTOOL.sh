@@ -65,12 +65,7 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
      	#menu 3
 
 elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
-        clear
-
-
-sleep 2      
-	
-#!/bin/bash
+        clear 
 xdg-open "https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q"&
                            
                           
