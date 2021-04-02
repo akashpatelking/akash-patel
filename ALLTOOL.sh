@@ -66,7 +66,8 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
 
 elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
         clear 
-xdg-open "https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q"&
+cd $HOME/akash-patel
+     	    bash exit.sh
                            
                           
 	     	#menu 3
