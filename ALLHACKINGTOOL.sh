@@ -49,7 +49,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/WELCOME ............./
+echo "                "[ WELCOME ] 
 sleep 5
 clear
 echo " "
@@ -73,7 +73,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/TO ............/
+echo "                " [ TO ]
 sleep 5
 clear
 echo " "
@@ -97,7 +97,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/HACKERS ............/
+echo "                " [ HACKERS ]
 sleep 5
 clear
 echo " "
@@ -121,7 +121,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/COMMUNITY............/
+echo "                " [ COMMUNITY ] 
 sleep 5
 clear
 echo " "
@@ -145,7 +145,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/PLESE WAIT DATA LOADING............/
+echo "                "[ PLESE WAIT DATA LOADING............] 
 sleep 5 
 clear
 echo""
