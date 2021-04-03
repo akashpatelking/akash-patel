@@ -1,6 +1,10 @@
 #!/bin/bash 
   # taking user 
 clear 
+pkg install figlet
+clear
+pkg install toilet
+clear
 echo -e "\e[4;34m This Script Was Created By Akash hacker \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
@@ -25,8 +29,6 @@ echo -e "\e[1;32m [Whatsapp GROUP = https://chat.whatsapp.com/KwwhoAwZhAA54zw2sB
 echo -e "\e[1;32m [ BYY BYY BYY BYY BYY BYY ]  \e[0m" #######Youtube : AKASH GAMER Hacker
 echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
 echo -e "\e[1;32m       AKASH HACKER  \e[0m"
-pkg install figlet 
-pkg install toilet 
 clear 
 echo " "
 echo " "
@@ -50,7 +52,7 @@ echo " "
 echo " "
 echo " "
 echo "                "[ WELCOME ] 
-sleep 5
+sleep 2
 clear
 echo " "
 echo " "
@@ -74,7 +76,7 @@ echo " "
 echo " "
 echo " "
 echo "                " [ TO ]
-sleep 5
+sleep 2
 clear
 echo " "
 echo " "
@@ -98,7 +100,7 @@ echo " "
 echo " "
 echo " "
 echo "                " [ HACKERS ]
-sleep 5
+sleep 2
 clear
 echo " "
 echo " "
@@ -122,7 +124,7 @@ echo " "
 echo " "
 echo " "
 echo "                " [ COMMUNITY ] 
-sleep 5
+sleep 2
 clear
 echo " "
 echo " "
@@ -146,7 +148,7 @@ echo " "
 echo " "
 echo " "
 echo "                "[ PLESE WAIT DATA LOADING............] 
-sleep 5 
+sleep 2
 clear
 echo""
 echo""
@@ -601,3 +603,4 @@ echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFM
 echo -e "\e[1;32m                100+TOOL COMMING SOON	\e[0m"
 
 
+fi

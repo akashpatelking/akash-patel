@@ -21,95 +21,21 @@ echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
  echo -e "\e[1;31m"
 figlet ALLTOOL
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border AKASH
-
-                                            
-echo -e "\e[0;31m[1]\e[32m →→→→→→→→→→ SHOW ALL TOOL "
-echo -e "\e[0;31m[2]\e[32m →→→→→→→→→→ UPDATE TOOL  "
-echo -e "\e[0;31m[3]\e[32m →→→→→→→→→→ EXIT "
-echo -e "\e[0;31m[4]\e[32m →→→→→→→→→→ SEND LINK CRASH MOBILE "
-echo -e "\e[0;31m[5]\e[32m →→→→→→→→→→ CONTANT  "
-echo -e "\e[0;31m[6]\e[32m →→→→→→→→→→ SUPPOT    "
-
+toilet -f mono12 -F border AKASH                                            
+echo -e "\e[0;31m[1]\e[32m →→→→→→→→→→ RUN TOOL"
+echo -e "\e[0;31m[00]\e[32m →→→→→→→→→→ EXIT"
  
-
 read -p "AKASH HACKER : " AKASH
-if [[ $AKASH == 1 || $AKASH == 01 ]]; then 
-clear
-echo -e '\033[31;40;1m              AKASH!'
-sleep 2
-
-echo -e '\033[31;40;1m AKASH 
-               Hacker ....'
-     	cd $HOME/akash-patel
-     	    bash ALLTOOL	         
-                            
-elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
+if [[ $AKASH == 1 || $AKASH == 01 ]]; then
         clear
-        echo -e "\e[1;32m [ SUBSCRIBE MY CHANNEL [ TYPE ( YES ) ]  { RUN PROCCES } ( NO) { STOP PROCCES }  \e[0m"
-        read a1 
-        echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-        cd $HOME
-        rm -rf akash-patel
-
-        git clone https://github.com/akashpatelking/akash-patel
+    cd $HOME/m-wiz
+    bash m-wiz.sh
+    elif [[ $AKASH == 00 || $AKASH  == 00 ]]; then
         clear
-        echo -e "\e[1;32m →→UPDATE  SUSSES [ PLESE WAIT  ] 0m"
-        sleep 2
-        echo -e '\033[31;40;1m AKASH 
-               Hacker ....'
-     	cd $HOME/akash-patel
-     	    bash ALLHACKINGTOOL.sh
-                           
-     	#menu 3
-
-elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
-        clear 
 cd $HOME/akash-patel
-     	    bash exit.sh
-                           
-                          
-	     	#menu 3
+     	    bash ALLTOOL 
 
-elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
-                                   
-        clear
-        echo -e "\e[1;32m [ SUBSCRIBE MY CHANNEL [ TYPE ( YES ) ]  { RUN PROCCES } ( NO) { STOP PROCCES }  \e[0m"
-        read a1 
-        echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-   cd $HOME
-        
-        sleep 2
-        echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
-	cd $HOME/akash-patel
-        bash java.sh
-        #menu 
-        elif [[ $AKASH == 5 || $AKASH == 05 ]]; then
-                                   
-        clear
-        echo -e "\e[1;32m [ SUBSCRIBE MY CHANNEL [ TYPE ( YES ) ]  { RUN PROCCES } ( NO) { STOP PROCCES }  \e[0m"
-        read a1 
-        echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-       cd $HOME
-        sleep 2
-        echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
-	cd $HOME/akash-patel
-        bash contact.sh
-#menu 
-        elif [[ $AKASH == 6 || $AKASH == 06 ]]; then
-                                   
-        clear
-        echo -e "\e[1;32m [ SUBSCRIBE MY CHANNEL [ TYPE ( YES ) ]  { RUN PROCCES } ( NO) { STOP PROCCES }  \e[0m"
-        read a1 
-        echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
-             cd $HOME
-        sleep 2
-        echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
-	cd $HOME/akash-patel
-        bash subscribe.sh
-
-	
-else                       
+    else   
 	clear
         echo -e '\033[36;40 ;1m 
 ============CODDEDBYAKASHHACKER===============         CODDEDBYAKASHHACKER-------------
@@ -165,8 +91,10 @@ else
             CODDEDBYAKASHHACKER
             CODDEDBYAKASHHACKER
             CODDEDBYAKASHHACKER....'	
-
-
+	sleep 1
+	clear 
+echo -e "\e[1;32m [ PRESS ENTER TO EXIT \e[0m"
+read a1 
 clear
 echo -e "\e[1;31m"
 figlet ALTOOL
@@ -179,5 +107,6 @@ echo -e "\e[1;32m       Whatsapp: 7079063261........ \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q \e[0m"
 echo -e "\e[1;32m                100+TOOL COMMING SOON	\e[0m"
 cd $HOME/akash-patel
-        bash ALLTOOL.sh
+        bash ALLTOOL
 fi               
+

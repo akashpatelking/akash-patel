@@ -63,8 +63,8 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
         sleep 2
         echo -e '\033[31;40;1m AKASH 
                Hacker ....'
-     	cd $HOME/akash-patel
-     	    bash ALLTOOL.sh	          
+     	cd $HOME/akash-patel  
+     	    bash python1.sh     
 #menu 3
 
 elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
@@ -76,8 +76,8 @@ elif [[ $AKASH == 3 || $AKASH == 03 ]]; then
         git clone https://github.com/Rajkumrdusad/Tool-X
         sleep 2
         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
-	cd $HOME/akash-patel
-	   bash ALLTOOL.sh	
+	cd $HOME/akash-patel  
+     	    bash python2.sh  
 
 #menu 4
 elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
@@ -89,8 +89,8 @@ elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
         sleep 2
         echo -e '\033[31;40;1m AKASH 
                Hacker ....'
-	cd $HOME/akash-patel
-          bash ALLTOOL.sh	
+	cd $HOME/akash-patel 
+     	    bash python3.sh  
                                 
 #menu 5
 
@@ -104,8 +104,8 @@ elif [[ $AKASH == 5 || $AKASH == 05 ]]; then
         git clone https://github.com/noob-hackers/snap
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER........'
-	cd $HOME/akash-patel
-     bash ALLTOOL.sh	
+cd $HOME/akash-patel   
+     	    bash python4.sh  
                             
 #menu 6
 
@@ -118,8 +118,8 @@ elif [[ $AKASH == 6 || $AKASH == 06 ]]; then
         git clone https://github.com/TheSpeedX/TBomb
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER......'
-	cd $HOME/akash-patel
-      bash ALLTOOL.sh	 
+        cd $HOME/akash-patel  
+     	    bash python5.sh  
 #menu 7
 elif [[ $AKASH == 7 || $AKASH == 07 ]]; then
         clear
@@ -130,8 +130,8 @@ elif [[ $AKASH == 7 || $AKASH == 07 ]]; then
         git clone https://github.com/An0nUD4Y/blackeye 
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER ......'
-	cd $HOME/akash-patel
-        bash ALLTOOL.sh	
+	cd $HOME/akash-patel  
+     	    bash python6.sh  
 
 #menu 8
 elif [[ $AKASH == 8 ]]; then
@@ -145,8 +145,8 @@ elif [[ $AKASH == 8 ]]; then
         git clone https://github.com/noob-hackers/m-wiz
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER........'
-	cd $HOME/akash-patel
-        bash ALLTOOL.sh	
+	cd $HOME/akash-patel  
+     	    bash python7.sh  
 
 #menu 9
 elif [[ $AKASH == 9 || $AKASH == 09 ]]; then
@@ -158,9 +158,8 @@ elif [[ $AKASH == 9 || $AKASH == 09 ]]; then
         git clone https://github.com/CruzTed/Hammer
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.......'
-	cd $HOME/akash-patel
-        bash ALLTOOL.sh	
-
+	cd $HOME/akash-patel   
+     	    bash python8.sh  
 #menu 10
 elif [[ $AKASH == 10 ]]; then
         clear
@@ -179,7 +178,7 @@ elif [[ $AKASH == 10 ]]; then
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER.........'
 	cd $HOME/akash-patel
-        bash ALLTOOL.sh	
+        bash ALLTOOL	
 
 #menu 11
 elif [[ $AKASH == 11 ]]; then
@@ -191,8 +190,8 @@ elif [[ $AKASH == 11 ]]; then
         git clone https://github.com/noob-hackers/kalimux
         sleep 2
         echo -e '\033[31;40;1mAKASH HACKER .......'
-	cd $HOME/akash-patel
-        bash ALLTOOL.sh	
+	cd $HOME/akash-patel   
+     	    bash python9.sh  
 
 
 #menu 12
@@ -428,25 +427,10 @@ else
             CODDEDBYAKASHHACKER
             CODDEDBYAKASHHACKER
             CODDEDBYAKASHHACKER
-            CODDEDBYAKASHHACKER
-            CODDEDBYAKASHHACKER
-            CODDEDBYAKASHHACKER
-            CODDEDBYAKASHHACKER....'	
-	sleep 1
+            CODDEDBYAKASHHACKER'
 	clear 
-echo -e "\e[1;32m [ PRESS ENTER TO EXIT \e[0m"
-read a1 
-clear
-echo -e "\e[1;31m"
-figlet ALTOOL
-echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border AKASH
-echo -e "\e[4;34m This Script Was Created By AKASHHACKER\e[0m"
-echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: 7079063261........ \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q \e[0m"
-echo -e "\e[1;32m                100+TOOL COMMING SOON	\e[0m"
 
+cd $HOME/akash-patel
+        bash ALLTOOL
 fi               
 
