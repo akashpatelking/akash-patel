@@ -106,6 +106,6 @@ echo -e "\e[1;32m       Whatsapp: 7079063261........ \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://youtube.com/channel/UCi9kS7X5E7knfhbFMrwsb4Q \e[0m"
 echo -e "\e[1;32m                100+TOOL COMMING SOON	\e[0m"
 cd $HOME/akash-patel
-        bash ALLTOOL
+        bash python9.sh
 fi               
 

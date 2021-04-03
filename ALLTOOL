@@ -63,7 +63,7 @@ elif [[ $AKASH == 2 || $AKASH  == 02 ]]; then
         sleep 2
         echo -e '\033[31;40;1m AKASH 
                Hacker ....'
-     	cd $HOME/akash-patel  
+     	cd $HOME/akash-patel
      	    bash python1.sh     
 #menu 3
 

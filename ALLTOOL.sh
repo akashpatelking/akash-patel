@@ -37,7 +37,7 @@ read -p "AKASH HACKER : " AKASH
 if [[ $AKASH == 1 || $AKASH == 01 ]]; then 
 clear
 echo -e '\033[31;40;1m              AKASH!'
-sleep 2
+
 
 echo -e '\033[31;40;1m AKASH 
                Hacker ....'
@@ -76,10 +76,11 @@ elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
         clear
         echo -e "\e[1;32m [ SUBSCRIBE MY CHANNEL [ TYPE ( YES ) ]  { RUN PROCCES } ( NO) { STOP PROCCES }  \e[0m"
         read a1 
+        clear
         echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
    cd $HOME
-        
-        sleep 2
+        clear
+
         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
 	cd $HOME/akash-patel
         bash java.sh
@@ -91,7 +92,7 @@ elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
         read a1 
         echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
        cd $HOME
-        sleep 2
+        clear
         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
 	cd $HOME/akash-patel
         bash contact.sh
@@ -103,7 +104,7 @@ elif [[ $AKASH == 4 || $AKASH == 04 ]]; then
         read a1 
         echo -e "\e[1;32m →→→→→→→→CONTANT ANY PROBLEM←←←←←\e[0m"
              cd $HOME
-        sleep 2
+        clear
         echo -e '\033[31;4;1CODDEDBYAKASHHACKER...'
 	cd $HOME/akash-patel
         bash subscribe.sh
