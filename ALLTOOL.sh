@@ -121,7 +121,12 @@ elif [[ $AKASH == 8 || $AKASH == 08 ]]; then
                                    
         clear
 	cd $HOME
+	pkg install python
+	pkg install python3 
+	pkg install git 
+      python3 -m pip install requests
 	git clone https://github.com/akas-bot/SpamWa-1
+
 	clear 
 	cd $HOME/SpamWa-1
 	python3 spam.py

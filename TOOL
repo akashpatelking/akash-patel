@@ -1,0 +1,63 @@
+#!/bin/bash 
+ # taking user 
+cd $HOME/akash-patel
+chmod +x TOOL
+cp -r TOOL $PREFIX/bin
+     	cd $HOME/akash-patel
+     	    bash ALLHACKINGTOOL.sh                          
+        clear
+        echo -e '\033[36;40 ;1m
+============CODDEDBYAKASHHACKER===============         CODDEDBYAKASHHACKER-------------
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER             |
+            CODDEDBYAKASHHACKER ------------|
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER
+            CODDEDBYAKASHHACKER'
+        clear
+cd $HOME/akash-patel
+            bash ALLTOOL.sh
+

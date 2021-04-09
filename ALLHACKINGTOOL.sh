@@ -5,6 +5,9 @@ pkg install figlet
 clear
 pkg install toilet
 clear
+cd $HOME/akash-patel
+chmod +x TOOL
+cp -r TOOL $PREFIX/bin
 echo -e "\e[4;34m This Script Was Created By Akash hacker \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ap258187@gmail.com \e[0m"
