@@ -19,9 +19,9 @@ echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 
  clear 
  echo -e "\e[1;31m"
-figlet ALLTOOL
+figlet BOT
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border AKASH                                            
+toilet -f mono12 -F border CODDER                                            
 echo -e "\e[0;31m[1]\e[32m →→→→→→→→→→ RUN TOOL"
 echo -e "\e[0;31m[00]\e[32m →→→→→→→→→→ EXIT"
  

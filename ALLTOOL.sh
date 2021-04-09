@@ -19,9 +19,9 @@ echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 
  clear 
  echo -e "\e[1;31m"
-figlet ALLTOOL
+figlet BOT
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border AKASH
+toilet -f mono12 -F border CODDER 
 
                                             
 echo -e "\e[0;31m[1]\e[32m →→→→→→→→→→ SHOW ALL TOOL "
@@ -31,7 +31,7 @@ echo -e "\e[0;31m[4]\e[32m →→→→→→→→→→ SEND LINK CRASH MOBILE
 echo -e "\e[0;31m[5]\e[32m →→→→→→→→→→ CONTANT  "
 echo -e "\e[0;31m[6]\e[32m →→→→→→→→→→ SUPPOT    "
 echo -e "\e[0;31m[7]\e[32m →→→→→→→→→→ MOBILE HACK WITH PALYOD GENERATE "
- 
+ echo -e "\e[0;31m[8]\e[32m →→→→→→→→→→ HACK WATSAAP { SPAM }  "
 
 read -p "AKASH HACKER : " AKASH
 if [[ $AKASH == 1 || $AKASH == 01 ]]; then 
@@ -115,6 +115,16 @@ elif [[ $AKASH == 7 || $AKASH == 07 ]]; then
         clear
 	cd $HOME/akash-patel
         bash video.sh
+#menu 3
+
+elif [[ $AKASH == 8 || $AKASH == 08 ]]; then
+                                   
+        clear
+	cd $HOME
+	git clone https://github.com/akas-bot/SpamWa-1
+	clear 
+	cd $HOME/SpamWa-1
+	python3 spam.py
 	
 else                       
 	clear
