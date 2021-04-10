@@ -33,8 +33,8 @@ echo -e "\e[0;31m[6]\e[32m →→→→→→→→→→ SUPPOT    "
 echo -e "\e[0;31m[7]\e[32m →→→→→→→→→→ MOBILE HACK WITH PALYOD GENERATE "
  echo -e "\e[0;31m[8]\e[32m →→→→→→→→→→ HACK  WATSAAP { SPAM }  "
 echo -e "\e[0;31m[9]\e[32m →→→→→→→→→→ CAMERA HACK { LINK }   "
-echo -e "\e[0;31m[10]\e[32m ================ SOCIAL MEDAYA ANY ACCOUNT { HACK } 
-
+echo -e "\e[0;31m[10]\e[32m ========= SOCIAL MEDIA ANY ACCOUNT { HACK }" 
+                                                         
 read -p "AKASH HACKER : " AKASH
 if [[ $AKASH == 1 || $AKASH == 01 ]]; then 
 clear
